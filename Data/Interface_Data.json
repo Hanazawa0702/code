@@ -1,0 +1,6 @@
+{
+  "url": "http://www.weather.com.cn/data/sk/101010100.html",
+  "headers": {
+              "Content-Type": "application/json"
+  }
+}
